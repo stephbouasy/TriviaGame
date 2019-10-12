@@ -1,0 +1,28 @@
+.jumbotron {
+    background-image: url("https://wallpaperaccess.com/full/314123.jpg");
+    color: white;
+}
+body{
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+.answers {
+  margin-bottom: 15px;
+}
+.answers label{
+  display: block;
+}
+#submit{
+    font-size: 20px;
+    background-color: #279;
+    color: #fff;
+    border: 0px;
+    border-radius: 3px;
+    padding: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+#submit:hover{
+    background-color: #38a;
+}
+
