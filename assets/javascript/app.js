@@ -40,6 +40,8 @@ $(document).ready(function (){
           var answerContainers = quizContainer.querySelectorAll(".answers");
       
           var numCorrect = 0;
+
+          var numWrong = 0;
       
           myQuestions.forEach((currentQuestion, questionNumber) => {
             var answerContainer = answerContainers[questionNumber];
@@ -55,7 +57,7 @@ $(document).ready(function (){
             }
           });
       
-          resultsContainer.innerHTML = `${numCorrect} out of ${myQuestions.length}`;
+          resultsContainer.innerHTML = `Correct Answers: ${numCorrect} out of ${myQuestions.length}`;
         }
       
         var quizContainer = document.getElementById("quiz");
