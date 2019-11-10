@@ -3,7 +3,9 @@
 Harry Potter Trivia Game!
 Answer these five questions to test your knowledge of the Wizarding World of Harry Potter.
 
-Trivia game allows 30 seconds to complete and will display in light green how many qustions were 
-answered right, and red for the ones answered wrong.
+https://stephbouasy.github.io/TriviaGame/
 
-Displays at the bottom of Submit Button how many questions were answered correctly.
+Corrected to display a start screen with a button to start the quiz.
+
+LinkedIn Profile:
+https://www.linkedin.com/in/stephanie-bouasy-759001144/
